@@ -1,3 +1,4 @@
 hello this is sample file, just checking how the clone and push is going to work!!!
 Intresting looks like i gotsome steps to clone the file to my local
 Now i need to push the txt file to the remote lets seeeeeeeeee!`
+Success like this line, i am editing in the remote repository.. now i need to clone again and test this!!!
