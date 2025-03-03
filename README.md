@@ -1,2 +1,2 @@
-# Sample.Repo
+# Krishna
 Practice 
